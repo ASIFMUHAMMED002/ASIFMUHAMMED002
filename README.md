@@ -11,7 +11,6 @@
 <table>
 <tr>
 <td width="35%">
-<img src="assets/profile-photo.png" width="100%"/>
 </td>
 <td>
 
