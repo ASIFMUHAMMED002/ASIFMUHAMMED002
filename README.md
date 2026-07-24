@@ -102,6 +102,8 @@ guest@soc-lab:~$ whoami --verbose
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ASIFMUHAMMED002&theme=matrix&hide_border=true"/>
 </p>
+📈 Contribution Graph
+<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=ASIFMUHAMMED002&theme=react-dark&bg_color=000000&color=00FF41&line=00FF41&point=FFFFFF&hide_border=true&area=true" width="100%"/> </p>
 
 ## 🎯 Current Focus
 
