@@ -1,21 +1,8 @@
-<div align="center">
+<div align="center"> <img src="https://media.giphy.com/media/26tPghhb2HpJklWJa/giphy.gif" width="100%" alt="matrix code rain"/> <pre> █████╗ ███████╗██╗███████╗ ██╔══██╗██╔════╝██║██╔════╝ ███████║███████╗██║█████╗ ██╔══██║╚════██║██║██╔══╝ ██║ ██║███████║██║██║ ╚═╝ ╚═╝╚══════╝╚═╝╚═╝ </pre> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=800&color=00FF41&center=true&vCenter=true&width=700&lines=root%40kali%3A~%23+whoami;%3E+ACCESS+GRANTED...;%3E+Loading+profile+%2F%2F+SOC+Analyst;%3E+Blue+Team+%7C+Wazuh+%7C+Splunk+%7C+Sentinel" alt="Typing SVG"/> <p> <img src="https://komarev.com/ghpvc/?username=ASIFMUHAMMED002&label=CONNECTIONS+LOGGED&color=00FF41&style=for-the-badge&labelColor=000000"/> <img src="https://img.shields.io/badge/STATUS-ONLINE-00FF41?style=for-the-badge&labelColor=000000"/> </p>
 
-<img src="https://media.giphy.com/media/26tPghhb2HpJklWJa/giphy.gif" width="100%" alt="matrix code rain"/>
+<sub>>> SYSTEM BREACH LOG: welcome, user. authentication successful. rendering profile... <<</sub>
 
-<pre>
-███╗   ███╗██╗   ██╗██╗  ██╗ █████╗ ███╗   ███╗███╗   ███╗███████╗██████╗
-████╗ ████║██║   ██║██║  ██║██╔══██╗████╗ ████║████╗ ████║██╔════╝██╔══██╗
-██╔████╔██║██║   ██║███████║███████║██╔████╔██║██╔████╔██║█████╗  ██║  ██║
-██║╚██╔╝██║██║   ██║██╔══██║██╔══██║██║╚██╔╝██║██║╚██╔╝██║██╔══╝  ██║  ██║
-██║ ╚═╝ ██║╚██████╔╝██║  ██║██║  ██║██║ ╚═╝ ██║██║ ╚═╝ ██║███████╗██████╔╝
-╚═╝     ╚═╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝╚═╝     ╚═╝╚══════╝╚═════╝
-                  ██╗    █████╗ ███████╗██╗███████╗
-                  ██║   ██╔══██╗██╔════╝██║██╔════╝
-                  ██║   ███████║███████╗██║█████╗
-                  ██║   ██╔══██║╚════██║██║██╔══╝
-                  ██║██╗██║  ██║███████║██║██║
-                  ╚═╝╚═╝╚═╝  ╚═╝╚══════╝╚═╝╚═╝
-</pre>
+</div>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=800&color=00FF41&center=true&vCenter=true&width=700&lines=root%40kali%3A~%23+whoami;%3E+ACCESS+GRANTED...;%3E+Loading+profile+%2F%2F+SOC+Analyst;%3E+Blue+Team+%7C+Wazuh+%7C+Splunk+%7C+Sentinel" alt="Typing SVG"/>
 
