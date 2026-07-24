@@ -1,19 +1,4 @@
-<div align="center">
-
-<img src="https://media.giphy.com/media/26tPghhb2HpJklWJa/giphy.gif" width="100%" alt="matrix code rain"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2500&pause=800&color=00FF41&center=true&vCenter=true&width=700&lines=root%40kali%3A~%23+whoami;%3E+Muhammed+Asif;%3E+Aspiring+SOC+Analyst;%3E+Blue+Team+%7C+Wazuh+%7C+Splunk;%3E+Access+Granted..." alt="Typing SVG" />
-
-</div>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ASIFMUHAMMED002&label=CONNECTIONS+LOGGED&color=00FF41&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/STATUS-ONLINE-00FF41?style=for-the-badge&labelColor=000000"/>
-</p>
-
-<p align="center"><sub>&gt;&gt; SYSTEM BREACH LOG: welcome, user. authentication successful. rendering profile... &lt;&lt;</sub></p>
-
----
+<div align="center"> <img src="https://media.giphy.com/media/26tPghhb2HpJklWJa/giphy.gif" width="100%" alt="matrix code rain"/> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2500&pause=800&color=00FF41&center=true&vCenter=true&width=700&lines=root%40kali%3A~%23+whoami;%3E+Muhammed+Asif;%3E+Aspiring+SOC+Analyst;%3E+Blue+Team+%7C+Wazuh+%7C+Splunk;%3E+Access+Granted..." alt="Typing SVG" /> </div> <p align="center"> <img src="https://komarev.com/ghpvc/?username=ASIFMUHAMMED002&label=CONNECTIONS+LOGGED&color=00FF41&style=for-the-badge"/> <img src="https://img.shields.io/badge/STATUS-ONLINE-00FF41?style=for-the-badge&labelColor=000000"/> </p> <p align="center"><sub>&gt;&gt; SYSTEM BREACH LOG: welcome, user. authentication successful. rendering profile... &lt;&lt;</sub></p> <p align="center"> <img src="https://media.giphy.com/media/H4NAdi1jgtRWo/giphy.gif" width="280" alt="anime hacking"/> </p>
 
 ## 💻 whoami
 
@@ -33,7 +18,7 @@ guest@soc-lab:~$ whoami --verbose
 ## 🛡️ About Me
 
 ```
-[ ] Skiddie
+[x ] Skiddie
 [x] Learning Wazuh, Splunk, Suricata and DFIR
 [x] Linux enthusiast — Kali is home
 [x] Learning Python for automation
