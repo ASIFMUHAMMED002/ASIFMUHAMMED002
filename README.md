@@ -20,7 +20,7 @@
 ```bash
 guest@soc-lab:~$ whoami --verbose
 
-[+] Name      : Muhammed Asif
+[+] Name      : Muhammed Asif S
 [+] Role      : Aspiring SOC Analyst
 [+] OS        : Kali Linux
 [+] SIEM      : Wazuh
@@ -34,7 +34,6 @@ guest@soc-lab:~$ whoami --verbose
 
 ```
 [ ] Skiddie
-[x] Building a SOC Home Lab
 [x] Learning Wazuh, Splunk, Suricata and DFIR
 [x] Linux enthusiast — Kali is home
 [x] Learning Python for automation
