@@ -100,7 +100,7 @@ I'm a B.Tech Computer Science graduate focused on building a career in Security 
 
 <p>
   <a href="https://github.com/ASIFMUHAMMED002">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=green"/>
   </a>
 </p>
 
