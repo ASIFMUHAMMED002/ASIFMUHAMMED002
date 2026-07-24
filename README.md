@@ -48,7 +48,6 @@ guest@soc-lab:~$ whoami --verbose
 + [x] Linux enthusiast — Kali is home
 + [x] Learning Python for automation
 + [x] "The network never lies. Logs don't forget."
-- [ ] Skiddie
 ```
 
 ## ⚙️ Tech Stack
