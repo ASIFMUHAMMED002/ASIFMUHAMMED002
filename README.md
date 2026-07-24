@@ -57,54 +57,8 @@ guest@soc-lab:~$ whoami --verbose
 guest@soc-lab:~$ cat tech_stack.txt
 ```
 
-**SIEM & Monitoring**
-<p>
-  <img src="https://img.shields.io/badge/Wazuh-0d1117?style=flat-square&labelColor=0d1117&color=00FF41"/>
-  <img src="https://img.shields.io/badge/Splunk-0d1117?style=flat-square&logo=splunk&logoColor=00FF41&labelColor=0d1117&color=00FF41"/>
-  <img src="https://img.shields.io/badge/Microsoft_Sentinel-0d1117?style=flat-square&logo=microsoftazure&logoColor=00FF41&labelColor=0d1117&color=00FF41"/>
-</p>
-
-**Operating Systems**
-<p>
-  <img src="https://img.shields.io/badge/Kali_Linux-0d1117?style=flat-square&logo=kalilinux&logoColor=00FF41&labelColor=0d1117&color=00FF41"/>
-  <img src="https://img.shields.io/badge/Ubuntu-0d1117?style=flat-square&logo=ubuntu&logoColor=00FF41&labelColor=0d1117&color=00FF41"/>
-  <img src="https://img.shields.io/badge/Windows-0d1117?style=flat-square&logo=windows&logoColor=00FF41&labelColor=0d1117&color=00FF41"/>
-</p>
-
-**Networking**
-<p>
-  <img src="https://img.shields.io/badge/TCP%2FIP-0d1117?style=flat-square&labelColor=0d1117&color=00FF41"/>
-  <img src="https://img.shields.io/badge/DNS-0d1117?style=flat-square&labelColor=0d1117&color=00FF41"/>
-  <img src="https://img.shields.io/badge/HTTP%2FHTTPS-0d1117?style=flat-square&labelColor=0d1117&color=00FF41"/>
-  <img src="https://img.shields.io/badge/SSH-0d1117?style=flat-square&labelColor=0d1117&color=00FF41"/>
-</p>
-
-**Log Analysis**
-<p>
-  <img src="https://img.shields.io/badge/Syslog-0d1117?style=flat-square&labelColor=0d1117&color=00FF41"/>
-  <img src="https://img.shields.io/badge/Windows_Event_Logs-0d1117?style=flat-square&labelColor=0d1117&color=00FF41"/>
-</p>
-
-**Security Tools**
-<p>
-  <img src="https://img.shields.io/badge/Nmap-0d1117?style=flat-square&labelColor=0d1117&color=00FF41"/>
-  <img src="https://img.shields.io/badge/Wireshark-0d1117?style=flat-square&logo=wireshark&logoColor=00FF41&labelColor=0d1117&color=00FF41"/>
-  <img src="https://img.shields.io/badge/Suricata-0d1117?style=flat-square&labelColor=0d1117&color=00FF41"/>
-  <img src="https://img.shields.io/badge/Zeek-0d1117?style=flat-square&labelColor=0d1117&color=00FF41"/>
-  <img src="https://img.shields.io/badge/Sigma_Rules-0d1117?style=flat-square&labelColor=0d1117&color=00FF41"/>
-</p>
-
-**Threat Intelligence**
-<p>
-  <img src="https://img.shields.io/badge/MITRE_ATT%26CK-0d1117?style=flat-square&labelColor=0d1117&color=00FF41"/>
-  <img src="https://img.shields.io/badge/VirusTotal-0d1117?style=flat-square&logo=virustotal&logoColor=00FF41&labelColor=0d1117&color=00FF41"/>
-  <img src="https://img.shields.io/badge/AbuseIPDB-0d1117?style=flat-square&labelColor=0d1117&color=00FF41"/>
-</p>
-
-**Scripting**
-<p>
-  <img src="https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=00FF41&labelColor=0d1117&color=00FF41"/>
-  <img src="https://img.shields.io/badge/Bash-0d1117?style=flat-square&logo=gnubash&logoColor=00FF41&labelColor=0d1117&color=00FF41"/>
+<p align="center">
+  <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Tech+Stack&align=center&titleAlign=center&lineCount=7&line1=Wazuh,wazuh,00FF41;Splunk,splunk,00FF41;Microsoft+Sentinel,microsoftazure,00FF41&line2=Kali+Linux,kalilinux,00FF41;Ubuntu,ubuntu,00FF41;Windows,windows,00FF41&line3=TCP%2FIP,tcpip,00FF41;DNS,dns,00FF41;HTTP%2FHTTPS,http,00FF41;SSH,ssh,00FF41&line4=Syslog,syslog,00FF41;Windows+Event+Logs,windows,00FF41;Nmap,nmap,00FF41;Wireshark,wireshark,00FF41&line5=Suricata,suricata,00FF41;Zeek,zeek,00FF41;Sigma+Rules,sigma,00FF41&line6=MITRE+ATT%26CK,mitre,00FF41;VirusTotal,virustotal,00FF41;AbuseIPDB,abuseipdb,00FF41&line7=Python,python,00FF41;Bash,gnubash,00FF41&bg=%230d1117&border=%2300FF41&badge=%230d1117&titleColor=%2300FF41&width=480" alt="Tech Stack"/>
 </p>
 
 ## 📊 GitHub Overview
