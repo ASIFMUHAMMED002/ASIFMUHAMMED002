@@ -1,61 +1,50 @@
-# 👋 Hi, I'm Muhammed Asif
+<div align="center">
 
-```{=html}
-<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,100:00ff41&height=180&section=header&text=root@asif:~$%20whoami&fontSize=38&fontColor=00FF41&fontAlignY=35&desc=Aspiring%20Cybersecurity%20Analyst&descAlignY=62&descSize=20&descColor=00FF41" width="100%"/>
+
+</div>
+
+<br>
+
+## <font color="#00FF41">Currently on</font>
+
+<table>
+<tr>
+<td width="35%">
+
+</td>
+<td>
+
 ```
-`<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=39FF14&center=true&vCenter=true&width=700&lines=Aspiring+SOC+Analyst;Blue+Team+%7C+Wazuh+SIEM;Kali+Linux+%7C+Python;Always+Learning+Cybersecurity" />`{=html}
-```{=html}
-</p>
-```
-
-------------------------------------------------------------------------
-
-## 💻 whoami
-
-``` bash
-$ whoami
-
-Name      : Muhammed Asif
-Role      : Aspiring SOC Analyst
-OS        : Kali Linux
-SIEM      : Wazuh
-Learning  : Splunk | Suricata | DFIR
-CTFs      : TryHackMe | Bandit | picoCTF
-Mission   : Detect • Investigate • Respond
+[+] Target Acquired    : Career in Cybersecurity
+[+] Current Status     : Actively Learning & Building
+[+] Weapon of Choice    : Linux Terminal
+[+] Mission             : Bridge AI Governance & Security
 ```
 
-## 🛡️ About Me
+</td>
+</tr>
+</table>
 
--   🎓 B.Tech Computer Science Graduate
--   🔐 Building a SOC Home Lab
--   🌱 Learning Wazuh, Splunk, Suricata and DFIR
--   🐧 Linux enthusiast
--   🐍 Learning Python for automation
+<br>
 
-## ⚙️ Tech Stack
+### > whoami
 
-![Kali
-Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Wazuh](https://img.shields.io/badge/Wazuh-0055FF?style=for-the-badge)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+- 🎓 **Btech Computer ScienceGraduate Student** based in India, working toward a career in **cybersecurity**
+- 🛡️ Currently building hands-on skills through a home lab — **Wazuh SIEM**, **Suricata**, **Kali Linux**
+- 🥷 Working through **BreachLab**, **OverTheWire Bandit**, **picoCTF**, and **pwn.college**
+- 🎯 Sharpening practical skills on **TryHackMe** and **HackTheBox**
+- 🤖 Interested in the intersection of **AI Governance and security**
+- 🌐 Also into gaming, photography editing, and language learning (built a German learning app!)
+- ⚡ Fun fact: I like breaking things on purpose so I can learn how to defend them
 
-## 📊 GitHub Stats
+<br>
 
-![Stats](https://github-readme-stats.vercel.app/api?username=ASIFMUHAMMED002&show_icons=true&theme=chartreuse-dark)
+### > cat tech_stack.txt
 
-![Top
-Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ASIFMUHAMMED002&layout=compact&theme=chartreuse-dark)
-
-## 🎯 Current Focus
-
--   SOC Monitoring
--   Threat Detection
--   Incident Response
--   Log Analysis
--   Detection Engineering
-
-## 📫 Connect
-
--   GitHub: https://github.com/ASIFMUHAMMED002
+```
+[Security]     Wazuh SIEM · Suricata · Kali Linux · Wireshark
+[Languages]    Python · JavaScript · TypeScript
+[Platforms]    TryHackMe · HackTheBox · picoCTF · OverTheWire 
+[Tools]        Git · VS Code · Linux Terminal
+```
