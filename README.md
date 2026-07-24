@@ -73,13 +73,6 @@ guest@soc-lab:~$ cat tech_stack.txt
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ASIFMUHAMMED002&bg_color=000000&color=00FF41&line=00FF41&point=ffffff&hide_border=true&area=true" width="100%"/>
 </p>
 
-## 🖥️ Live Monitoring Feed
-
-<p align="center">
-  <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="100%" alt="SOC monitoring dashboard"/>
-</p>
-
-<p align="center"><sub>&gt;&gt; simulated dashboard feed — real dashboards live in the SOC home lab (Wazuh + Grafana). &lt;&lt;</sub></p>
 
 ## 🎯 Current Focus
 
