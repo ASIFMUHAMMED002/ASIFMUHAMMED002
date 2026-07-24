@@ -53,54 +53,58 @@ guest@soc-lab:~$ whoami --verbose
 
 ## ⚙️ Tech Stack
 
-**🛰️ SIEM & Monitoring**
+```
+guest@soc-lab:~$ cat tech_stack.txt
+```
+
+**SIEM & Monitoring**
 <p>
-  <img src="https://img.shields.io/badge/Wazuh-000000?style=for-the-badge&labelColor=000000&color=FFFFFF"/>
-  <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=FFFFFF"/>
-  <img src="https://img.shields.io/badge/Microsoft_Sentinel-000000?style=for-the-badge&logo=microsoftazure&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/Wazuh-0d1117?style=flat-square&labelColor=0d1117&color=00FF41"/>
+  <img src="https://img.shields.io/badge/Splunk-0d1117?style=flat-square&logo=splunk&logoColor=00FF41&labelColor=0d1117&color=00FF41"/>
+  <img src="https://img.shields.io/badge/Microsoft_Sentinel-0d1117?style=flat-square&logo=microsoftazure&logoColor=00FF41&labelColor=0d1117&color=00FF41"/>
 </p>
 
-**🐧 Operating Systems**
+**Operating Systems**
 <p>
-  <img src="https://img.shields.io/badge/Kali_Linux-000000?style=for-the-badge&logo=kalilinux&logoColor=FFFFFF"/>
-  <img src="https://img.shields.io/badge/Ubuntu-000000?style=for-the-badge&logo=ubuntu&logoColor=FFFFFF"/>
-  <img src="https://img.shields.io/badge/Windows-000000?style=for-the-badge&logo=windows&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/Kali_Linux-0d1117?style=flat-square&logo=kalilinux&logoColor=00FF41&labelColor=0d1117&color=00FF41"/>
+  <img src="https://img.shields.io/badge/Ubuntu-0d1117?style=flat-square&logo=ubuntu&logoColor=00FF41&labelColor=0d1117&color=00FF41"/>
+  <img src="https://img.shields.io/badge/Windows-0d1117?style=flat-square&logo=windows&logoColor=00FF41&labelColor=0d1117&color=00FF41"/>
 </p>
 
-**🌐 Networking**
+**Networking**
 <p>
-  <img src="https://img.shields.io/badge/TCP%2FIP-000000?style=for-the-badge&labelColor=000000&color=FFFFFF"/>
-  <img src="https://img.shields.io/badge/DNS-000000?style=for-the-badge&labelColor=000000&color=FFFFFF"/>
-  <img src="https://img.shields.io/badge/HTTP%2FHTTPS-000000?style=for-the-badge&labelColor=000000&color=FFFFFF"/>
-  <img src="https://img.shields.io/badge/SSH-000000?style=for-the-badge&labelColor=000000&color=FFFFFF"/>
+  <img src="https://img.shields.io/badge/TCP%2FIP-0d1117?style=flat-square&labelColor=0d1117&color=00FF41"/>
+  <img src="https://img.shields.io/badge/DNS-0d1117?style=flat-square&labelColor=0d1117&color=00FF41"/>
+  <img src="https://img.shields.io/badge/HTTP%2FHTTPS-0d1117?style=flat-square&labelColor=0d1117&color=00FF41"/>
+  <img src="https://img.shields.io/badge/SSH-0d1117?style=flat-square&labelColor=0d1117&color=00FF41"/>
 </p>
 
-**📜 Log Analysis**
+**Log Analysis**
 <p>
-  <img src="https://img.shields.io/badge/Syslog-000000?style=for-the-badge&labelColor=000000&color=FFFFFF"/>
-  <img src="https://img.shields.io/badge/Windows_Event_Logs-000000?style=for-the-badge&labelColor=000000&color=FFFFFF"/>
+  <img src="https://img.shields.io/badge/Syslog-0d1117?style=flat-square&labelColor=0d1117&color=00FF41"/>
+  <img src="https://img.shields.io/badge/Windows_Event_Logs-0d1117?style=flat-square&labelColor=0d1117&color=00FF41"/>
 </p>
 
-**🛠️ Security Tools**
+**Security Tools**
 <p>
-  <img src="https://img.shields.io/badge/Nmap-000000?style=for-the-badge&labelColor=000000&color=FFFFFF"/>
-  <img src="https://img.shields.io/badge/Wireshark-000000?style=for-the-badge&logo=wireshark&logoColor=FFFFFF"/>
-  <img src="https://img.shields.io/badge/Suricata-000000?style=for-the-badge&labelColor=000000&color=FFFFFF"/>
-  <img src="https://img.shields.io/badge/Zeek-000000?style=for-the-badge&labelColor=000000&color=FFFFFF"/>
-  <img src="https://img.shields.io/badge/Sigma_Rules-000000?style=for-the-badge&labelColor=000000&color=FFFFFF"/>
+  <img src="https://img.shields.io/badge/Nmap-0d1117?style=flat-square&labelColor=0d1117&color=00FF41"/>
+  <img src="https://img.shields.io/badge/Wireshark-0d1117?style=flat-square&logo=wireshark&logoColor=00FF41&labelColor=0d1117&color=00FF41"/>
+  <img src="https://img.shields.io/badge/Suricata-0d1117?style=flat-square&labelColor=0d1117&color=00FF41"/>
+  <img src="https://img.shields.io/badge/Zeek-0d1117?style=flat-square&labelColor=0d1117&color=00FF41"/>
+  <img src="https://img.shields.io/badge/Sigma_Rules-0d1117?style=flat-square&labelColor=0d1117&color=00FF41"/>
 </p>
 
-**🎯 Threat Intelligence**
+**Threat Intelligence**
 <p>
-  <img src="https://img.shields.io/badge/MITRE_ATT%26CK-000000?style=for-the-badge&labelColor=000000&color=FFFFFF"/>
-  <img src="https://img.shields.io/badge/VirusTotal-000000?style=for-the-badge&logo=virustotal&logoColor=FFFFFF"/>
-  <img src="https://img.shields.io/badge/AbuseIPDB-000000?style=for-the-badge&labelColor=000000&color=FFFFFF"/>
+  <img src="https://img.shields.io/badge/MITRE_ATT%26CK-0d1117?style=flat-square&labelColor=0d1117&color=00FF41"/>
+  <img src="https://img.shields.io/badge/VirusTotal-0d1117?style=flat-square&logo=virustotal&logoColor=00FF41&labelColor=0d1117&color=00FF41"/>
+  <img src="https://img.shields.io/badge/AbuseIPDB-0d1117?style=flat-square&labelColor=0d1117&color=00FF41"/>
 </p>
 
-**🐍 Scripting**
+**Scripting**
 <p>
-  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=FFFFFF"/>
-  <img src="https://img.shields.io/badge/Bash-000000?style=for-the-badge&logo=gnubash&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=00FF41&labelColor=0d1117&color=00FF41"/>
+  <img src="https://img.shields.io/badge/Bash-0d1117?style=flat-square&logo=gnubash&logoColor=00FF41&labelColor=0d1117&color=00FF41"/>
 </p>
 
 ## 📊 GitHub Overview
