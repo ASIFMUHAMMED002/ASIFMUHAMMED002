@@ -3,12 +3,9 @@
 <img src="https://media.giphy.com/media/26tPghhb2HpJklWJa/giphy.gif" width="100%" alt="matrix code rain"/>
 
 <pre>
- █████╗ ███████╗██╗███████╗
-██╔══██╗██╔════╝██║██╔════╝
-███████║███████╗██║█████╗
-██╔══██║╚════██║██║██╔══╝
-██║  ██║███████║██║██║
-╚═╝  ╚═╝╚══════╝╚═╝╚═╝
+╔══════════════════════════════════════╗
+║   ASPIRING CYBERSECURITY ANALYST      ║
+╚══════════════════════════════════════╝
 </pre>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=800&color=00FF41&center=true&vCenter=true&width=700&lines=root%40kali%3A~%23+whoami;%3E+ACCESS+GRANTED...;%3E+Loading+profile+%2F%2F+SOC+Analyst;%3E+Blue+Team+%7C+Wazuh+%7C+Splunk+%7C+Sentinel" alt="Typing SVG"/>
@@ -48,6 +45,7 @@ guest@soc-lab:~$ whoami --verbose
 + [x] Linux enthusiast — Kali is home
 + [x] Learning Python for automation
 + [x] "The network never lies. Logs don't forget."
+- [ ] Skiddie
 ```
 
 ## ⚙️ Tech Stack
@@ -74,6 +72,14 @@ guest@soc-lab:~$ cat tech_stack.txt
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ASIFMUHAMMED002&bg_color=000000&color=00FF41&line=00FF41&point=ffffff&hide_border=true&area=true" width="100%"/>
 </p>
+
+## 🖥️ Live Monitoring Feed
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="100%" alt="SOC monitoring dashboard"/>
+</p>
+
+<p align="center"><sub>&gt;&gt; simulated dashboard feed — real dashboards live in the SOC home lab (Wazuh + Grafana). &lt;&lt;</sub></p>
 
 ## 🎯 Current Focus
 
