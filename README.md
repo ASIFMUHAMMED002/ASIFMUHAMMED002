@@ -20,6 +20,15 @@
 </div>
 
 ---
+## 📫 Connect
+<p>
+  <a href="https://muhammedasifs.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=00FF41"/>
+  </a>
+  <a href="https://github.com/ASIFMUHAMMED002">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00FF41"/>
+  </a>
+</p>
 
 ## 💻 whoami
 
