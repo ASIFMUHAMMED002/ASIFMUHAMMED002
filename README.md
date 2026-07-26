@@ -26,7 +26,7 @@
 ```bash
 guest@soc-lab:~$ whoami --verbose
 
-[+] Name      : Muhammed Asif
+[+] Name      : Muhammed Asif S
 [+] Role      : Aspiring SOC Analyst
 [+] OS        : Kali Linux
 [+] SIEM      : Wazuh
